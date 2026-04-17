@@ -1,0 +1,3 @@
+# **Texte Résumé du Projet (50 mots)**
+
+GuardAI est une solution innovante de sécurité domestique alliant surveillance physique et protection réseau. Intégrant des capteurs avancés, des modules IoT et une interface centralisée, il détecte les menaces en temps réel, protège les données personnelles et améliore la sécurité. GuardAI s'adresse aux familles, seniors et professionnels recherchant simplicité, efficacité et modernité.
